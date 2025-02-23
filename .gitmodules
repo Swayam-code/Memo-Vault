@@ -1,0 +1,6 @@
+[submodule "ML-Memovault"]
+	path = ML-Memovault
+	url = https://github.com/Swayam-code/ML-Memovault.git
+[submodule "Project-MemoVault"]
+	path = Project-MemoVault
+	url = https://github.com/Swayam-code/Project-MemoVault.git
